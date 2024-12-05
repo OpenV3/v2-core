@@ -1,2 +1,14 @@
-node_modules/
 build/
+
+artifacts/
+cache/
+crytic-export/
+node_modules/
+
+typechain/
+typechain-types/
+
+.env
+
+ignition/deployments/**/journal.jsonl
+ignition/deployments/**/build-info/
